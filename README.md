@@ -6,7 +6,7 @@ A app to track latest financial info.
 
 ![image](https://github.com/Placidoleung/detective-dog/blob/main/Screenshots/1.jpg)
 
-![image](https://github.com/Placidoleung/detective-dog/blob/main/Screenshots/2.jpg)
+![image](https://github.com/Placidoleung/detective-dog/blob/main/Screenshots/2.png)
 
-![image](https://github.com/Placidoleung/detective-dog/blob/main/Screenshots/3.jpg)
+![image](https://github.com/Placidoleung/detective-dog/blob/main/Screenshots/3.png)
 

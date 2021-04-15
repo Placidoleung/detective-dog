@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (3.4.2)
+  - Bugly (2.4.2)
+  - LeanCloud (1.0.0-beta.2):
+    - Alamofire (~> 3.4)
+  - Realm (1.0.2):
+    - Realm/Headers (= 1.0.2)
+  - Realm/Headers (1.0.2)
+  - RealmSwift (1.0.2):
+    - Realm (= 1.0.2)
+  - SnapKit (0.22.0)
+  - SwiftMessages (1.1.4)
+  - WechatKit (0.1.5):
+    - Alamofire (~> 3.0)
+
+DEPENDENCIES:
+  - Bugly
+  - LeanCloud (~> 1.0.0-beta.2)
+  - RealmSwift
+  - SnapKit
+  - SwiftMessages (~> 1.1.4)
+  - WechatKit
+
+SPEC CHECKSUMS:
+  Alamofire: 6aa33201d20d069e1598891cf928883ff1888c7a
+  Bugly: b09cd3c7e54048a0e079be88a7a99610f14eab8f
+  LeanCloud: bdad56c37274f343dd20d78f1ca380f5495d9c00
+  Realm: 9d5c46a4d7d27958530a8dfc58f63a99e5c2cba3
+  RealmSwift: 82f3ac5e24530143dddfde2033acc0d308f27d96
+  SnapKit: 0dd2fd157330f1ea11fd84da13e6be8a7a22bae0
+  SwiftMessages: c7678758945a9123613cd77da98c2a89fa38eba3
+  WechatKit: 457a978f0f5f32d0b76a2ffa8ade024193aacb7f
+
+PODFILE CHECKSUM: 63b8678890a36bb4c186955b262132bac6bf3637
+
+COCOAPODS: 1.1.1
